@@ -1,6 +1,6 @@
 LATEX = xelatex
 RM = rm -f
-FILENAME = Yang_Pan_Resume_CMU
+FILENAME = Yang_Pan_Resume
 
 all:
 	$(LATEX) $(FILENAME)
